@@ -1,0 +1,184 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+
+}
+
+#title{
+    font-size: 32px;
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+.btn1{
+    font-size: 18px;
+    height: 40px;
+    border: 1px solid #006A50;
+    color: #006A50;
+    padding: 0px 20px 0px 20px;
+    border-radius: 6px;
+    
+}
+.btn1:hover{
+    background-color: #006A50;
+    color: aliceblue;
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 160px 30px 170px;
+}
+.banner{
+    display: flex;
+    margin: 0px 160px 100px 160px;
+    background-color: #C6E4D6;
+    height: 400px;
+    justify-content: space-between;
+    padding: 80px 40px 80px 40px;
+    border-radius: 24px;
+}
+.banner-name{
+    font-size: 24px;
+    font-weight: 200;
+    margin-bottom: 16px;
+}
+.banner-title{
+    font-size: 56px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.banner-btn{
+    width: 270px;
+    height: 56px;
+    border: 1px solid #006A50;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #006A50;
+    color: aliceblue;
+    font-family: "Fira Sans", serif;
+}
+  .banner-btn:hover{
+    background-color: #C6E4D6;
+    color: black;
+  }
+  .vision{
+    height: 765px;
+    width: 1280px;
+    margin: 0px 160px 100px 160px;
+
+  }
+  .heading{
+    font-size: 40px;
+    font-weight: bold;
+  }
+  .description{
+    font-size: 16px;
+    margin-bottom: 32px;
+  }
+  .headings{
+    font-size: 20px;
+  }
+  .vision1{
+    height: 261px;
+    width: 346px;
+    padding: 32px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;    
+    
+  }
+  .descriptions{
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 24px;
+  }
+  .button-1{
+    height: 39px;
+    width: 120px;
+    background-color: #5490F5; 
+    border: 1px solid #5490F5;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    
+  }
+  .button-1:hover{
+    background-color: rgba(84, 144, 245, 0.2);
+    color: black;
+  }
+  .vision2{
+    height: 261px;
+    width: 346px;
+    padding: 32px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+  }
+  .button-2{
+    height: 39px;
+    width: 120px;
+    background-color: #09A15C; 
+    border: 1px solid #09A15C;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    
+  }
+  .button-2:hover{
+    background-color: #C6E4D6;
+    color: black;
+  }
+  .vision3{
+    height: 261px;
+    width: 346px;
+    padding: 32px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+  }
+  .button-3{
+    height: 39px;
+    width: 120px;
+    background-color: #FFC239; 
+    border: 1px solid #FFC239;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    
+  }
+  .button-3:hover{
+    background-color: #F7EBCF;
+    color: black;
+    opacity: 0.75;
+  }
+  .visions{
+    display: flex;
+    justify-content: space-between;
+  }
+  .news{
+    height: 960px;
+    width: 1280px;
+    margin: 0px 160px 100px 160px;
+
+  }
+  .news-1{
+    width: 1184px;
+    height: 306px;
+    padding: 48px;
+    background-color: aqua;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .image{
+    border-radius: 24px;
+  }
+  .news-content{
+    height: 290px;
+    width: 744px;
+  }
+
