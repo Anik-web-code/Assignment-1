@@ -194,3 +194,49 @@ body{
     color: white;
     
 }
+.news-2{
+    width: 1184px;
+    height: 306px;
+    padding: 48px;
+    background-color: aqua;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 90px;
+  
+}
+.donate-section{
+    height: 464px;
+    width: 1070px;
+    margin: 0px 160px 100px 160px;
+    padding: 0px 105px 0px 105px;
+}
+.heading-5{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.description-5{
+    font-size: 16px;
+    margin-bottom: 32px;
+    text-align: center;
+  }
+  .amount{
+    height: 128px;
+    width: 240px;
+    text-align: center;
+    border: 1px solid #006A50;
+    font-size: 40px;
+    font-weight: bold;
+    align-content: center;
+    border-radius: 16px;
+  }
+  .amounts{
+    display: flex;
+    justify-content: space-between;
+   
+  }
+  .amount:hover{
+    background-color: #006A50;
+    color: aliceblue;
+  }
