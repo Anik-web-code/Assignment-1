@@ -182,3 +182,14 @@ body{
     width: 744px;
   }
 
+.read{
+    height: 39px;
+    width: 120px;
+    background-color: #006A50; 
+    border: 1px solid #006A50;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    
+}
